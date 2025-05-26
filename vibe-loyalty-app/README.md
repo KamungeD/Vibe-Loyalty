@@ -62,7 +62,7 @@ vibe-loyalty-app/
 ## Live Demo
 
 - **Frontend:** [https://elaborate-semifreddo-124117.netlify.app/](https://elaborate-semifreddo-124117.netlify.app/)
-- **Backend:** [your-render-url]
+- **Backend:** [https://vibe-loyalty.onrender.com](https://vibe-loyalty.onrender.com)
 
 ## Hackathon Brief
 
