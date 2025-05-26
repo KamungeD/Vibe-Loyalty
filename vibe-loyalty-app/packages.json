@@ -1,0 +1,12 @@
+{
+  "name": "vibe-loyalty-app",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Duncan Kamunge <duncan.kamunge@gmail.com> (https://github.com/KamungeD)",
+  "workspaces": [
+    "backend",
+    "frontend",
+    "shared"
+  ],
+  "license": "MIT"
+}
