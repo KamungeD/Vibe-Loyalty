@@ -1,5 +1,8 @@
 import React, { useState } from "react";
 
+// TypeScript declaration for Vite's import.meta.env
+// (Removed custom ImportMeta and ImportMetaEnv interfaces to avoid conflicts with Vite's types)
+
 const API_URL = import.meta.env.VITE_API_URL || "http://localhost:4000/api/loyalty";
 
 function App() {
